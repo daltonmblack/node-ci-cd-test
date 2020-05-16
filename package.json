@@ -1,0 +1,19 @@
+{
+  "name": "ci-cd-test",
+  "version": "0.0.1",
+  "description": "Small Node JS application used to test out CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daltonmblack/node-ci-cd-test.git"
+  },
+  "author": "Dalton Black",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daltonmblack/node-ci-cd-test/issues"
+  },
+  "homepage": "https://github.com/daltonmblack/node-ci-cd-test#readme"
+}
